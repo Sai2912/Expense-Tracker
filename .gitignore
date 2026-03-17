@@ -2,6 +2,6 @@
 __pycache__/
 *.pyc
 data/expenses.json
-data/expenses.json
+data/savings.json
 *.egg-info/
 .DS_Store

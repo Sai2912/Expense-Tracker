@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+data/expenses.json
+data/expenses.json
+*.egg-info/
+.DS_Store
